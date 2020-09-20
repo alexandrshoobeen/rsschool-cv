@@ -1,0 +1,21 @@
+.cv {
+    min-width: 600px;
+    max-width: 1024px;
+    background-color: #e6efff;
+    margin: auto;
+    padding: 30px;
+}
+.cv_photo {
+    width: 250px;
+    height: auto;
+}
+.cv_link-list {
+    padding: 0;
+    margin-left: 10px;
+}
+.cv_link-list li {
+    list-style-type: none;
+}
+.cv_link-list a {
+    text-decoration: none;
+}
