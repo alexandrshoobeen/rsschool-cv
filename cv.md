@@ -1,3 +1,5 @@
+Alexander Shubin
+E-mail: alexandrshoobeen@gmail.com
 My name is Alexandr Shubin, currently I am a student of Tomsk State
 University in Russia. I would like to become a frontend-developer.
 I profoundly believe that continuous education and practical skills improvement are essential
